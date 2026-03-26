@@ -27,7 +27,7 @@
 
 - 🎓 I'm an undergraduate student in **Information Technology** at **UFRN** *(2024 - Present)*
 - 👨‍💻 Member of the **PET-CC (Tutorial Education Program in Computer Science)** at UFRN
-- 🧠 Fan open-source technologies
+- 🧠 Fan of open-source technologies
 - 🛠 Right to Repair
 
 ---
