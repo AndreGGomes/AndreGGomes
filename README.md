@@ -37,7 +37,7 @@
 - Back-end development using **Spring Boot**
 - REST APIs
 - Web scraping applications using **Jsoup**
-- Database integration with **PostgreSQL**, and **MySQL**
+- Database integration with **PostgreSQL** and **MySQL**
 - Deepening my knowledge in Containerization with **Docker**
 
 ---
