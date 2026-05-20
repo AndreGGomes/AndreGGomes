@@ -11,8 +11,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="html5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="css3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  height="40" style="vertical-align:middle; margin-right:10px;" title="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" style="vertical-align:middle; margin-right:10px;" title="Linux"/>
@@ -37,6 +39,7 @@
 
 - Back-end development using **Spring Boot**
 - REST APIs
+- Studying front-end development with **React** to consume REST APIs
 - Web scraping applications using **Jsoup**
 - Database integration with **PostgreSQL** and **MySQL**
 - Deepening my knowledge in Containerization with **Docker**
